@@ -1,6 +1,5 @@
-# 🍽️ **zomato Clone: Secure Deployment with DevSecOps CI/CD**  
+# 🍽️ **Bytebites: Secure Deployment with DevSecOps CI/CD**  
 
-![zomato Clone](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X_hm5iF0NRjbOZHB6RQIFA.jpeg)  
 
 🚀 **A full-stack zomato Clone with DevSecOps integration for a secure and scalable deployment.**  
 
@@ -15,8 +14,7 @@ This **zomato Clone: Secure Deployment with DevSecOps CI/CD** repository is a **
 ✅ **Production-Ready** – Includes build optimizations & best practices.  
 
 > This repo is a great **learning project** for those interested in **DevSecOps, CI/CD, and secure web app deployment**. 🚀
-
-🔗 **Read the detailed blog post:** [zomato Clone - Secure Deployment with DevSecOps CI/CD](https://blog.prodevopsguytech.com/zomato-clone-secure-deployment-with-devsecops-cicd)  
+ 
 
 ## 📸 **Project Screenshots**  
 
