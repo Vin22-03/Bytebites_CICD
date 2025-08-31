@@ -20,13 +20,9 @@ This **zomato Clone: Secure Deployment with DevSecOps CI/CD** repository is a **
 
 | Home Page | Menu View | Checkout Page |  
 |-----------|----------|---------------|  
-| ![](https://miro.medium.com/v2/resize:fit:750/format:webp/1*xVxk3tSbk9yA6hel60t13g.png) | ![](https://miro.medium.com/v2/resize:fit:750/format:webp/1*KOwp6K2sOcSmDyk9Axnvhw.png) | ![](https://miro.medium.com/v2/resize:fit:750/format:webp/1*t1x_F_qwHI6anvRHS59OxA.png) |  
+| ![](https://github.com/Vin22-03/Bytebites_CICD/blob/main/home.png) | ![](https://github.com/Vin22-03/Bytebites_CICD/blob/main/menu.png) | ![](https://github.com/Vin22-03/Bytebites_CICD/blob/main/checkout.png) |  
 
----
-
-## 🛠️ **Getting Started**  
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+--- 
 
 ### 🔧 **Prerequisites**  
 
@@ -113,22 +109,8 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ---
 
-## 🛠️ **Author & Community**  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
----
-
 ### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-
----
-
-### 📢 **Stay Connected**  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
+Portfolio : (www.vincloudops.tech) 
 
 ---
 
